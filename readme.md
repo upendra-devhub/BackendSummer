@@ -15,6 +15,9 @@ BackendSummer/
 │   ├── notes.md        # Event loop, type coercion, hoisting
 │   ├── basics.js       # Code examples
 │   └── makeup.js       # Additional practice
+├── Day3/
+│   ├── notes.md        # Constructors, prototypes, closures
+│   └── code.js         # Code examples
 └── readme.md
 ```
 
@@ -25,7 +28,8 @@ BackendSummer/
 | Day | Topics Covered | Notes | Code |
 |-----|---------------|-------|------|
 | **Day 1** | JS History, Browser vs Node.js, V8 Engine, Async Basics | [notes.md](Day1/notes.md) | [basics.js](Day1/basics.js) |
-| **Day 2** | Event Loop, Type Coercion, Hoisting | [notes.md](Day2/notes.md) | [basics.js](Day2/basics.js) |
+| **Day 2** | Event Loop, Type Coercion, Hoisting, Objects | [notes.md](Day2/notes.md) | [basics.js](Day2/basics.js) |
+| **Day 3** | Constructors, Prototypes, Closures | [notes.md](Day3/notes.md) | [code.js](Day3/code.js) |
 
 ---
 
