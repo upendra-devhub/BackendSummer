@@ -21,6 +21,9 @@ BackendSummer/
 ├── Day4/
 │   ├── notes.md        # Arrays, ES6 features
 │   └── code.js         # Code examples
+├── Day5/
+│   ├── notes.md        # Spread/Rest, Classes, Error Handling, JSON
+│   └── code.js         # Code examples
 └── readme.md
 ```
 
@@ -34,6 +37,7 @@ BackendSummer/
 | **Day 2** | Event Loop, Type Coercion, Hoisting, Objects | [notes.md](Day2/notes.md) | [basics.js](Day2/basics.js) |
 | **Day 3** | Constructors, Prototypes, Closures | [notes.md](Day3/notes.md) | [code.js](Day3/code.js) |
 | **Day 4** | Arrays, ES6 (let/const, Arrow Functions, Classes, Promises, Modules) | [notes.md](Day4/notes.md) | [code.js](Day4/code.js) |
+| **Day 5** | Spread & Rest Operators, Classes, Error Handling, JSON | [notes.md](Day5/notes.md) | [code.js](Day5/code.js) |
 
 ---
 
