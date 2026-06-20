@@ -18,6 +18,9 @@ BackendSummer/
 ├── Day3/
 │   ├── notes.md        # Constructors, prototypes, closures
 │   └── code.js         # Code examples
+├── Day4/
+│   ├── notes.md        # Arrays, ES6 features
+│   └── code.js         # Code examples
 └── readme.md
 ```
 
@@ -30,6 +33,7 @@ BackendSummer/
 | **Day 1** | JS History, Browser vs Node.js, V8 Engine, Async Basics | [notes.md](Day1/notes.md) | [basics.js](Day1/basics.js) |
 | **Day 2** | Event Loop, Type Coercion, Hoisting, Objects | [notes.md](Day2/notes.md) | [basics.js](Day2/basics.js) |
 | **Day 3** | Constructors, Prototypes, Closures | [notes.md](Day3/notes.md) | [code.js](Day3/code.js) |
+| **Day 4** | Arrays, ES6 (let/const, Arrow Functions, Classes, Promises, Modules) | [notes.md](Day4/notes.md) | [code.js](Day4/code.js) |
 
 ---
 
