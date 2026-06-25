@@ -24,6 +24,9 @@ BackendSummer/
 ├── Day5/
 │   ├── notes.md        # Spread/Rest, Classes, Error Handling, JSON
 │   └── code.js         # Code examples
+├── Day6/
+│   ├── notes.md        # Async JS, Callbacks, Promises, async/await, Timers
+│   └── code.js         # Code examples
 └── readme.md
 ```
 
@@ -38,6 +41,7 @@ BackendSummer/
 | **Day 3** | Constructors, Prototypes, Closures | [notes.md](Day3/notes.md) | [code.js](Day3/code.js) |
 | **Day 4** | Arrays, ES6 (let/const, Arrow Functions, Classes, Promises, Modules) | [notes.md](Day4/notes.md) | [code.js](Day4/code.js) |
 | **Day 5** | Spread & Rest Operators, Classes, Error Handling, JSON | [notes.md](Day5/notes.md) | [code.js](Day5/code.js) |
+| **Day 6** | Async JavaScript, Callbacks, Callback Hell, Promises, async/await, Event Loop, Timers | [notes.md](Day6/notes.md) | [code.js](Day6/code.js) |
 
 ---
 
