@@ -30,6 +30,11 @@ BackendSummer/
 ├── Day7/
 │   ├── notes.md        # Promises, Async-Await, Chaining, Promisification
 │   └── code.js         # Code examples
+├── Day8/
+│   ├── notes.md        # NPM, Packages vs Modules, Custom Modules
+│   ├── code.js         # Code examples
+│   ├── math.js         # Custom module (add, subtract, multiply)
+│   └── package.json    # Node project config with ES modules
 └── readme.md
 ```
 
@@ -46,6 +51,7 @@ BackendSummer/
 | **Day 5** | Spread & Rest Operators, Classes, Error Handling, JSON | [notes.md](Day5/notes.md) | [code.js](Day5/code.js) |
 | **Day 6** | Async JavaScript, Callbacks, Callback Hell, Promises, async/await, Event Loop, Timers | [notes.md](Day6/notes.md) | [code.js](Day6/code.js) |
 | **Day 7** | Promises (States, Chaining, Helper Methods), Promisification, Async-Await, try...catch | [notes.md](Day7/notes.md) | [code.js](Day7/code.js) |
+| **Day 8** | NPM, Packages vs Modules, Installing Packages, Creating Custom Modules, ES Module Syntax | [notes.md](Day8/notes.md) | [code.js](Day8/code.js) |
 
 ---
 
