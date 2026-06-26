@@ -27,6 +27,9 @@ BackendSummer/
 ├── Day6/
 │   ├── notes.md        # Async JS, Callbacks, Promises, async/await, Timers
 │   └── code.js         # Code examples
+├── Day7/
+│   ├── notes.md        # Promises, Async-Await, Chaining, Promisification
+│   └── code.js         # Code examples
 └── readme.md
 ```
 
@@ -42,6 +45,7 @@ BackendSummer/
 | **Day 4** | Arrays, ES6 (let/const, Arrow Functions, Classes, Promises, Modules) | [notes.md](Day4/notes.md) | [code.js](Day4/code.js) |
 | **Day 5** | Spread & Rest Operators, Classes, Error Handling, JSON | [notes.md](Day5/notes.md) | [code.js](Day5/code.js) |
 | **Day 6** | Async JavaScript, Callbacks, Callback Hell, Promises, async/await, Event Loop, Timers | [notes.md](Day6/notes.md) | [code.js](Day6/code.js) |
+| **Day 7** | Promises (States, Chaining, Helper Methods), Promisification, Async-Await, try...catch | [notes.md](Day7/notes.md) | [code.js](Day7/code.js) |
 
 ---
 
