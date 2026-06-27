@@ -35,6 +35,12 @@ BackendSummer/
 │   ├── code.js         # Code examples
 │   ├── math.js         # Custom module (add, subtract, multiply)
 │   └── package.json    # Node project config with ES modules
+├── Day9/
+│   ├── notes.md        # FS Module, File Handling, JSON read/write
+│   ├── code.js         # Code examples
+│   ├── data.json       # Sample JSON file for read/write practice
+│   ├── test.txt        # Generated via writeFileSync
+│   └── minioooon.txt   # Generated via appendFile + rename
 └── readme.md
 ```
 
@@ -52,6 +58,7 @@ BackendSummer/
 | **Day 6** | Async JavaScript, Callbacks, Callback Hell, Promises, async/await, Event Loop, Timers | [notes.md](Day6/notes.md) | [code.js](Day6/code.js) |
 | **Day 7** | Promises (States, Chaining, Helper Methods), Promisification, Async-Await, try...catch | [notes.md](Day7/notes.md) | [code.js](Day7/code.js) |
 | **Day 8** | NPM, Packages vs Modules, Installing Packages, Creating Custom Modules, ES Module Syntax | [notes.md](Day8/notes.md) | [code.js](Day8/code.js) |
+| **Day 9** | FS Module, File Read/Write, Append, Rename, Delete, Directories, Stats, Copy, JSON Handling | [notes.md](Day9/notes.md) | [code.js](Day9/code.js) |
 
 ---
 
