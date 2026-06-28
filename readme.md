@@ -41,6 +41,9 @@ BackendSummer/
 │   ├── data.json       # Sample JSON file for read/write practice
 │   ├── test.txt        # Generated via writeFileSync
 │   └── minioooon.txt   # Generated via appendFile + rename
+├── Day10/
+│   ├── notes.md        # Events, Streams & Pipes
+│   └── code.js         # Code examples
 └── readme.md
 ```
 
@@ -59,6 +62,7 @@ BackendSummer/
 | **Day 7** | Promises (States, Chaining, Helper Methods), Promisification, Async-Await, try...catch | [notes.md](Day7/notes.md) | [code.js](Day7/code.js) |
 | **Day 8** | NPM, Packages vs Modules, Installing Packages, Creating Custom Modules, ES Module Syntax | [notes.md](Day8/notes.md) | [code.js](Day8/code.js) |
 | **Day 9** | FS Module, File Read/Write, Append, Rename, Delete, Directories, Stats, Copy, JSON Handling | [notes.md](Day9/notes.md) | [code.js](Day9/code.js) |
+| **Day 10** | Events, EventEmitter, Streams (ReadStream, WriteStream), Pipes, Error Handling | [notes.md](Day10/notes.md) | [code.js](Day10/code.js) |
 
 ---
 
