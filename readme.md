@@ -44,6 +44,9 @@ BackendSummer/
 ├── Day10/
 │   ├── notes.md        # Events, Streams & Pipes
 │   └── code.js         # Code examples
+├── Day11/
+│   ├── notes.md        # Zlib, Servers, HTTP, APIs, REST
+│   └── code.js         # Code examples
 └── readme.md
 ```
 
@@ -63,6 +66,7 @@ BackendSummer/
 | **Day 8** | NPM, Packages vs Modules, Installing Packages, Creating Custom Modules, ES Module Syntax | [notes.md](Day8/notes.md) | [code.js](Day8/code.js) |
 | **Day 9** | FS Module, File Read/Write, Append, Rename, Delete, Directories, Stats, Copy, JSON Handling | [notes.md](Day9/notes.md) | [code.js](Day9/code.js) |
 | **Day 10** | Events, EventEmitter, Streams (ReadStream, WriteStream), Pipes, Error Handling | [notes.md](Day10/notes.md) | [code.js](Day10/code.js) |
+| **Day 11** | Zlib (Gzip/Gunzip), Compression & Decompression, HTTP Servers, HTTP Methods & Status Codes, APIs, REST | [notes.md](Day11/notes.md) | [code.js](Day11/code.js) |
 
 ---
 
@@ -80,4 +84,4 @@ BackendSummer/
 
 - [Node.js](https://nodejs.org/) installed
 - A code editor (VS Code recommended)
-- VS Code **Live Preview** extension (for rendering Markdown notes)
+- VS Code **Markdown Preview Enhanced** extension (for rendering Markdown notes)
